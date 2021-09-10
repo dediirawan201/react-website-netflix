@@ -1,6 +1,6 @@
 import React from 'react'
 import './app.scss';
-import Home from './Home/Home';
+import {Home} from './pages'
 
 const App = () => {
   return (
@@ -10,4 +10,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
