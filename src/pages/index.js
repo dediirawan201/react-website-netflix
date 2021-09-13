@@ -1,3 +1,4 @@
 import Home from './Home';
+import Watch from './Watch';
 
-export {Home}
+export {Home, Watch}
