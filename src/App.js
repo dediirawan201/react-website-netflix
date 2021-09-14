@@ -1,11 +1,11 @@
 import React from 'react'
 import './app.scss';
-import {Home, Register, Watch} from './pages'
+import {Home, Login, Register, Watch} from './pages'
 
 const App = () => {
   return (
     <div className="app">
-      <Register/>
+      <Login/>
     </div>
   )
 }
